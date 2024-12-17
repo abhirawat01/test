@@ -7,17 +7,17 @@
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "database_test",
-    "host": "127.0.0.1",
+    "username": "sql12752648",
+    "password": "BJMeFcjx5v",
+    "database": "sql12752648",
+    "host": "sql12.freesqldatabase.com",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "sql12752648",
+    "password": "BJMeFcjx5v",
+    "database": "sql12752648",
+    "host": "sql12.freesqldatabase.com",
     "dialect": "mysql"
   }
 }
